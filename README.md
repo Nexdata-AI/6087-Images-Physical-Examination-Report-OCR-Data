@@ -3,7 +3,7 @@
 ## Description
 6,087 Images Physical Examination Report OCR Data. This dataset includes multiple types of physical examination report. For annotation, line-level rectangular bounding box annotation and transcription for the texts were annotated in the data. The dataset can be used for tasks such as physical examination report detection and recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1257?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/ocr/1257?source=Github
 
 
 ## Data size
